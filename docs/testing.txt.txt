@@ -1,0 +1,15 @@
+Student Name:
+You are to create a testing document that tests the following:
+•	HTML files and CSS are validated (pass / fail)
+•	SQL file can be executed without errors (pass / fail)
+•	No PHP code is in the project (files must also not use a PHP extension) (pass / fail)
+•	Webpages must match the wireframe (pass / fail)
+•	Framework / Libraries is included into project (pass / fail)
+
+Student Name:
+You are to create a testing document that tests the following:
+•	HTML files and CSS are validated (pass / fail)
+•	SQL file can be executed without errors (pass / fail)
+•	No PHP code is in the project (files must also not use a PHP extension) (pass / fail)
+•	Webpages must match the wireframe (pass / fail)
+•	Framework / Libraries is included into project (pass / fail)
